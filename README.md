@@ -1,4 +1,4 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
+![PARTHIBAN 5 1_page-0001](https://github.com/23007965/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138971238/b4cf9a08-bd5a-46e7-b88a-d352b3971429)# EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![parthiban4 2_page-0001](https://github.com/23007965/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/138971238/b18702e4-cab1-45ca-a8ee-3ef3ad264375)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
